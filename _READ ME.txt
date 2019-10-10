@@ -1,0 +1,8 @@
+To run the game: double click on cnbgame.pyw
+
+Enter letters by clicking corresponding letters on the screen.
+Guess the word the game is thinking of.  Choose between 3-4-5 letter English words.
+A Cow (white) means a letter is correct, but not in the right place.
+A Bull (black) means a letter is correct and in the right place.
+
+One glitch that sometimes happens is when starting a new game,it sometimes has difficulty removing all the pictures of the cows and bulls and crashes.  Works well otherwise.
